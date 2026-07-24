@@ -1,3 +1,5 @@
 Mein erstes Git-Projekt. Heute gelernt: clone, commit, push.
 
 "Zweiter Eintrag: heute Git add/commit/push geübt."
+
+"Dritter Eintrag: heute erneut Git add/commit/push geübt."
